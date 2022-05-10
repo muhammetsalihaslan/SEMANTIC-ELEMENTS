@@ -1,0 +1,53 @@
+*{
+    margin: 3px;
+    
+}
+body {
+    border: 2px solid black;
+}
+.head{
+    background-color: red;
+    text-align: center;
+}
+
+nav{
+    background-color:lightblue;
+    text-align: center;
+    
+}
+
+.box{
+    background-color:lightgrey;
+}
+
+aside{
+    background-color:yellow;
+    float: left;
+    width: 10%;
+    padding: 5px;
+}
+
+.art{
+    background-color:lightgrey;
+}
+
+.foot{
+    background-color:lightsalmon;
+    text-align: center;
+    
+    
+}
+
+.p1{
+    font-size:30px;
+}
+.p2{
+    font-size:25px;
+}
+.n{
+   margin: 9%;
+}
+
+.clearfix{
+    clear: both;
+}
